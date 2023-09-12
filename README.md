@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá Pessoal :vulcan_salute:
 
-<!--
-**eliseupassos/eliseupassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Eliseu Passos, um entusiasta da programação apaixonado pelo aprendizado contínuo. Estou em busca de me tornar um desenvolvedor de software qualificado e comprometido com a inovação tecnológica.
 
-Here are some ideas to get you started:
+### Contato:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-passos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard Skill
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+>O homem não pode descobrir novos oceanos a menos que tenha coragem de perder de vista a costa. - André Gide
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliseupassos&hide=contribs,prs&show_icons=true&theme=dark)
